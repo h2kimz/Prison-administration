@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082587924232",
+    "project_id": "ziani-project-e4080",
+    "storage_bucket": "ziani-project-e4080.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082587924232:android:ca52662d38f41c449a8ebd",
+        "android_client_info": {
+          "package_name": "com.example.autoswift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRb1yOYsOCQUwnFmXSUVe6qLbSZj4hyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
